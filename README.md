@@ -5,7 +5,7 @@ Pyber Challenge Analysis
    2.Results: Using images from the summary Data Frame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 The results display that Urban city has more rides as compared to other cities which also correspond to having more driver’s availability, but the fare rate less ($24.53) as compared to other (Rural $ 34.62 & Suburban $30.97). 
 
-   3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+ 3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
    a. As per the results it shows that fare rates are lower in Urban city as compared to the other two. More information should be needed to determine the overall earning on monthly and yearly for each driver. This will help understand if drivers are earning roughly same or there is a gap .
 
